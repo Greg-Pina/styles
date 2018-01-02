@@ -1,0 +1,19 @@
+h1 {
+color: Blue;
+}
+
+body {
+	text-align: center;
+}
+
+#footer {font-size:70%;
+         text-align: center;
+         padding: 10px;
+		 clear: both;
+}
+
+#img {
+	border-radius: 8px;
+	max-width: 100%;
+    height: auto;
+}
